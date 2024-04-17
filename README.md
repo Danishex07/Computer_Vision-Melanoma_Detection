@@ -1,11 +1,9 @@
-# YouTube Downloader
+# Malignant Melanoma Detection System
 
-The YouTube Downloader is a Python script with a graphical user interface (GUI) built using Tkinter. It allows users to download YouTube videos by providing a video link and selecting the desired video format. The script supports both single video downloads and playlist downloads.
+This MATLAB-based system is designed to discriminate between images of malignant melanoma and benign skin lesions. The system utilizes computer vision techniques to preprocess the images, extract relevant features, classify the lesions, and evaluate the performance of the classification.
 
-Features
-Download YouTube videos in various resolutions (720p, 480p, 360p).
-Support for downloading single videos and entire playlists.
-Progress tracking with a graphical progress bar.
-Estimated time remaining for the download.
-Speed of download display.
+Please run the main.m file.
+
+System will take time to preprocess the images beacause of the hair removal algorithm.
+A display message will appear in the command window displaying current progress of image by a number.
 
