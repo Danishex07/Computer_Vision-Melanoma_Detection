@@ -19,8 +19,6 @@ This MATLAB script implements a comprehensive pipeline for analyzing lesion imag
 - `lesionimages/`: Directory containing lesion images.
 - `masks/`: Directory containing corresponding masks for lesion images.
 
-Please run the main.m file.
-
 System will take time to preprocess the images beacause of the hair removal algorithm.
 A display message will appear in the command window displaying current progress of image by a number.
 
